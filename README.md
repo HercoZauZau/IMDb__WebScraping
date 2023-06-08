@@ -1,4 +1,4 @@
-*Leia em outros idiomas: [English](https://github.com/HercoZauZau/IMDb__WebScraping/README-en.md)*
+*Leia em outros idiomas: [English](https://github.com/HercoZauZau/IMDb__WebScraping/blob/main/README-en.md)*
 
 # IMDb Top 100 Filmes - Web Scraping
 
