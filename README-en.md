@@ -39,7 +39,7 @@ The program will generate an Excel file with the following fields for each movie
 - Year: the year of the movie.
 - Director: the director of the movie.
 
-## Grades
+## Note
 
 - This program performs web scraping on the IMDb website (https://www.imdb.com). Check the website usage policy before using it.
 - This program is designed for educational and learning purposes only. Please use it responsibly and respect the terms of use of the sites you are collecting data from.
